@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkaAFyMKwts=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\VoiceRecog\\VoiceRecog\\VoiceRecog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erikv\\.nuget\\packages\\system.speech\\10.0.0-preview.7.25380.108\\system.speech.10.0.0-preview.7.25380.108.nupkg.sha512"
+  ],
+  "logs": []
+}
