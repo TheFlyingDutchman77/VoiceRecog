@@ -28,3 +28,9 @@ D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0
 D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\Microsoft.FlightSimulator.SimConnect.dll
 D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\SimConnect.cfg
 D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\SimConnect.dll
+D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\YamlDotNet.dll
+D:\Github\VoiceRecog\VoiceRecog\obj\Debug\net8.0-windows\VoiceRecog.sourcelink.json
+D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Github\VoiceRecog\VoiceRecog\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Github\VoiceRecog\VoiceRecog\obj\Debug\net8.0-windows\VoiceRecog_Content.g.cs

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VoiceRecog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeb10f561032ac209868176f23048603e692b3f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("VoiceRecog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VoiceRecog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
